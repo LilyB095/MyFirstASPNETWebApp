@@ -1,0 +1,17 @@
+﻿body {
+    font-family: Courier New, Courier, monospace;
+}
+
+label {
+    font-size: 20px;
+    color: darkgoldenrod;
+    display: inline-block;
+}
+
+textarea {
+    font-family: cursive;
+}
+
+li {
+    list-style-type: none;
+}
